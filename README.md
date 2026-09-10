@@ -25,9 +25,15 @@ The project contains **2 pages**:
 
 ## 📸 Dashboard Preview
 
-> A sleek landing page with Uber branding and navigation to the analytics dashboard.
+### 🏠 Home Page
+> A sleek landing page with Uber branding and navigation to the Overview dashboard.
 
-![Dashboard Preview](dashboard-home.png)
+![Home Page](dashboard-home.png)
+
+### 📊 Overview Page
+> The main analytics page with all key metrics, charts, and filters.
+
+![Overview Page](dashboard-overview.png)
 
 ---
 
